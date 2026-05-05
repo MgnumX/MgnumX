@@ -35,8 +35,8 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MgnumX&show_icons=true&hide_border=true&theme=transparent&title_color=c084fc&text_color=a1a1aa&icon_color=22d3ee&ring_color=c084fc" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MgnumX&layout=compact&hide_border=true&theme=transparent&title_color=c084fc&text_color=a1a1aa" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MgnumX&show_icons=true&hide_border=true&theme=transparent&title_color=c084fc&text_color=a1a1aa&icon_color=22d3ee&ring_color=c084fc" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MgnumX&layout=compact&hide_border=true&theme=transparent&title_color=c084fc&text_color=a1a1aa" height="165" alt="Top Languages" />
 </p>
 
 <p align="center">
