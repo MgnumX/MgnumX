@@ -1,54 +1,60 @@
-<h1 align="center">Hey, I'm Emilio ✦</h1>
+<div align="center">
+  
+# Hey, I'm Emilio ✦
+**Data Analyst & Business Intelligence Consultant**
 
-<p align="center">
-  <b>Software Engineer · Data Analyst</b><br><br>
-  <i>Building things that think, analyzing things that matter.</i><br>
-  <i>Construyo cosas que piensan, analizo cosas que importan.</i>
-</p>
-
-<p align="center">
-  <a href="https://python.org"><img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=ffd43b" alt="Python"></a>
-  <a href="https://postgresql.org"><img src="https://img.shields.io/badge/SQL-black?style=flat-square&logo=postgresql&logoColor=4fc3f7" alt="SQL"></a>
-  <a href="https://looker.com"><img src="https://img.shields.io/badge/Looker-black?style=flat-square&logo=looker&logoColor=7c4dff" alt="Looker"></a>
-  <a href="https://openai.com"><img src="https://img.shields.io/badge/AI%2FML-black?style=flat-square&logo=openai&logoColor=00e676" alt="AI/ML"></a>
-</p>
+*Building things that think, analyzing things that matter.*
+*Construyo cosas que piensan, analizo cosas que importan.*
 
 <br>
 
-### ⚡ Now / Ahora
-
-- 🔭 **Turning raw data into decisions that actually move the needle**  
-- 🧠 **Deep into AI-assisted workflows & predictive modeling**  
-- 🌎 **Based in Peru — building for the world**  
-
-<br>
-
-### 🛠 Stack
-
-| Layer | Tools |
-| :--- | :--- |
-| **Languages** | Python · SQL · JavaScript |
-| **Data** | Pandas · Plotly · Looker · BigQuery |
-| **AI/ML** | Scikit-learn · TensorFlow · LLM APIs |
-| **Infra** | Git · Docker · GitHub Actions |
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)](https://postgresql.org)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
+[![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com)
+[![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://lookerstudio.google.com/)
 
 <br>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MgnumX&show_icons=true&hide_border=true&theme=transparent&title_color=c084fc&text_color=a1a1aa&icon_color=22d3ee&ring_color=c084fc" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MgnumX&layout=compact&hide_border=true&theme=transparent&title_color=c084fc&text_color=a1a1aa" height="165" alt="Top Languages" />
-</p>
+## 📂 Featured Portfolio
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MgnumX&hide_border=true&background=00000000&ring=c084fc&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=a1a1aa&currStreakNum=e4e4e7&sideNums=e4e4e7&dates=525252" alt="GitHub Streak" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center">1️⃣ Retail KPI Dashboard</h3>
+      <p align="center"><em>Interactive Web Dashboard</em></p>
+      <p align="center">An end-to-end Python pipeline that generates synthetic e-commerce data and serves an interactive HTML dashboard without a backend.</p>
+      <p align="center"><strong>Stack:</strong> Python, Plotly, Pandas, GitHub Actions CI/CD</p>
+      <p align="center">
+        <a href="https://mgnumx.github.io/retail-kpi-dashboard/dashboard.html">🚀 View Live Demo</a> | 
+        <a href="https://github.com/MgnumX/retail-kpi-dashboard">💻 View Code</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">2️⃣ Global Video Game Sales</h3>
+      <p align="center"><em>Data Engineering & BI</em></p>
+      <p align="center">ETL pipeline simulating 8,500+ records, cleaning nulls, and engineering features for Tableau/Looker consumption.</p>
+      <p align="center"><strong>Stack:</strong> Python, Pandas, Data Cleaning</p>
+      <p align="center">
+        <a href="https://github.com/MgnumX/gaming-bi-dashboard">💻 View Code & Insights</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" width="100%">
+      <h3 align="center">3️⃣ Brutalist Data Analytics</h3>
+      <p align="center"><em>Advanced SQL & Jupyter EDA</em></p>
+      <p align="center">A deep-dive into E-Commerce metrics. Features raw SQL window functions, MoM growth calculations, and a dark-mode EDA notebook.</p>
+      <p align="center"><strong>Stack:</strong> SQLite, Python, Matplotlib, Seaborn</p>
+      <p align="center">
+        <a href="https://github.com/MgnumX/portfolio_data_project">💻 View Code & Visualizations</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
----
+## ⚡ Beyond the Data
+«The best code is the one that makes someone's life easier.» 
 
-<p align="center">
-  <i>«The best code is the one that makes someone's life easier.»</i><br>
-  <i>«El mejor código es el que le facilita la vida a alguien.»</i><br><br>
-  <a href="mailto:emiliomorillo@outlook.com">
-    <img src="https://img.shields.io/badge/Let%27s_talk-black?style=flat-square&logo=gmail&logoColor=ea580c" alt="Email" />
-  </a>
-</p>
+📫 **Let's connect:** [juane.morillo@outlook.com](mailto:juane.morillo@outlook.com) | [LinkedIn](https://www.linkedin.com/in/juan-emilio-morillo-358251274/)
