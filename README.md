@@ -26,7 +26,7 @@ portal is one file.
 
 `Python` `httpx` `SQLite` `pytest` `GitHub Actions`
 
-### [marihuaneros](https://github.com/MgnumX/marihuaneros) — independent publication
+### [marihuaneros](https://marihuaneros.com) — independent publication
 
 Static Astro site with its own editorial and SEO validator that runs on every
 build, automatic Open Graph image generation, and deploy to Cloudflare Pages
