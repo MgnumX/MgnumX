@@ -46,16 +46,17 @@ Four deterministic Playwright tests against public demo sites, wired for CI.
 
 `Playwright` `JavaScript`
 
-## Built locally, not published
+### [dj-ai](https://github.com/MgnumX/dj-ai) — audio analysis and DJ-set planner
 
-- **dj-ai** — music-information-retrieval pipeline: BPM estimation, key
-  detection by Krumhansl-Schmuckler chroma correlation, integrated loudness to
-  BS.1770, drop detection from onset flux, then a constrained set planner over
-  the Camelot wheel with BPM ramps and an energy curve. 2.4k lines of Python.
-- **oniro** — FastAPI + LLM dream journal, Spanish-first. OpenAI-compatible
-  client, SQLite persistence, PWA frontend, and an offline pytest suite with
-  the model call injected. Built spec-first: spec, plan and acceptance
-  scenarios before code.
+Analyzes local tracks and plans harmonic, BPM-aware sets before cutting segments and mixing them.
+
+`Python` `librosa` `NumPy` `SciPy` `pytest`
+
+### [oniro](https://github.com/MgnumX/oniro) — Spanish-first dream journal
+
+Stores entries in local SQLite and requests Spanish interpretations from an OpenAI-compatible LLM; includes a PWA and spec-first project docs.
+
+`Python` `FastAPI` `SQLite` `LLM` `pytest`
 
 ## Earlier: data analysis portfolio
 
