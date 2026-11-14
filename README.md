@@ -4,14 +4,9 @@
 
 **Self-taught developer · Quillabamba, Cusco, Peru**
 
-I build small Python systems that survive contact with real, messy data:
-job-market scrapers, audio analysis, and LLM-backed apps.
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
-[![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)](https://pytest.org)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
-[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://sqlite.org)
-[![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)](https://astro.build)
+I build small Python tools for people who need messy data turned into
+something usable — job-market scrapers, audio analysis, and LLM-backed
+apps — and I document them so you can run them.
 
 </div>
 
@@ -68,3 +63,5 @@ Stores entries in local SQLite and requests Spanish interpretations from an Open
 
 [juane.morillo@outlook.com](mailto:juane.morillo@outlook.com) ·
 [LinkedIn](https://www.linkedin.com/in/juan-emilio-morillo-sanchez-358251274)
+
+<!-- Owner: Juan Emilio Morillo Sánchez. Last reviewed: 2026-11-14. Review triggers: major release, new project, role change. -->
