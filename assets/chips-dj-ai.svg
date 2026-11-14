@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="385" height="26" viewBox="0 0 385 26" role="img" aria-label="Python, librosa, NumPy, SciPy, pytest">
+<rect x="0" y="0.5" width="72" height="25" rx="12.5" fill="#1a2238" stroke="#c99a45"/>
+<text x="36.0" y="17.0" text-anchor="middle" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#c99a45">Python</text>
+<rect x="80" y="0.5" width="79" height="25" rx="12.5" fill="#151b2e" stroke="#2a3550"/>
+<text x="119.5" y="17.0" text-anchor="middle" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#c6cfe3">librosa</text>
+<rect x="167" y="0.5" width="65" height="25" rx="12.5" fill="#151b2e" stroke="#2a3550"/>
+<text x="199.5" y="17.0" text-anchor="middle" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#c6cfe3">NumPy</text>
+<rect x="240" y="0.5" width="65" height="25" rx="12.5" fill="#151b2e" stroke="#2a3550"/>
+<text x="272.5" y="17.0" text-anchor="middle" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#c6cfe3">SciPy</text>
+<rect x="313" y="0.5" width="72" height="25" rx="12.5" fill="#151b2e" stroke="#2a3550"/>
+<text x="349.0" y="17.0" text-anchor="middle" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#c6cfe3">pytest</text>
+</svg>
