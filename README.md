@@ -60,7 +60,7 @@ Stores entries in local SQLite and requests Spanish interpretations from an Open
 
 ## Earlier: data analysis portfolio
 
-- [Retail KPI Dashboard](https://mgnumx.github.io/retail-kpi-dashboard/dashboard.html) — synthetic data generator plus an interactive dashboard with no backend. `Python` `Plotly` `Pandas`
+- [Retail KPI Dashboard](https://mgnumx.github.io/retail-kpi-dashboard/) — synthetic data generator plus an interactive dashboard with no backend. `Python` `Plotly` `Pandas`
 - [Global Video Game Sales](https://github.com/MgnumX/gaming-bi-dashboard) — ETL and feature engineering over 8,500+ records. `Python` `Pandas`
 - [Brutalist Data Analytics](https://github.com/MgnumX/portfolio_data_project) — SQL window functions, MoM growth, EDA notebook. `SQLite` `Pandas` `Seaborn`
 
