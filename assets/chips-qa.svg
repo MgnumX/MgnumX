@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="212" height="26" viewBox="0 0 212 26" role="img" aria-label="Playwright, JavaScript">
-<rect x="0" y="0.5" width="102" height="25" rx="12.5" fill="#1a2238" stroke="#9b8fd4"/>
-<text x="51.0" y="17.0" text-anchor="middle" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#9b8fd4">Playwright</text>
-<rect x="110" y="0.5" width="102" height="25" rx="12.5" fill="#151b2e" stroke="#2a3550"/>
-<text x="161.0" y="17.0" text-anchor="middle" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="12" fill="#c6cfe3">JavaScript</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="206" height="28" viewBox="0 0 206 28" role="img" aria-label="Playwright, JavaScript">
+<rect x="0" y="0.5" width="100" height="27" rx="13.5" fill="#1a2238" stroke="#9b8fd4"/>
+<text x="50.0" y="18.6" text-anchor="middle" font-family="'Segoe UI', 'Noto Sans', 'DejaVu Sans', Helvetica, Arial, sans-serif" font-size="13" fill="#9b8fd4">Playwright</text>
+<rect x="109" y="0.5" width="97" height="27" rx="13.5" fill="#151b2e" stroke="#2a3550"/>
+<text x="157.5" y="18.6" text-anchor="middle" font-family="'Segoe UI', 'Noto Sans', 'DejaVu Sans', Helvetica, Arial, sans-serif" font-size="13" fill="#c6cfe3">JavaScript</text>
 </svg>

@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Juan Emilio Morillo Sánchez — self-taught developer in Quillabamba, Cusco, Peru" width="880">
+<img src="assets/banner.svg" alt="Juan Emilio Morillo Sánchez — self-taught developer in Quillabamba, Cusco, Peru">
 
 I build small Python tools for people who need messy data turned into
 something usable — job-market scrapers, audio analysis, and LLM-backed
 apps — and I document them so you can run them.
 
-<img src="assets/caps.svg" alt="Python, FastAPI and Playwright" height="28">
+<img src="assets/caps.svg" alt="Python, FastAPI and Playwright">
 
 </div>
 
